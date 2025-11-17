@@ -44,6 +44,7 @@ input-file:
   - Microsoft.KeyVault/preview/2026-01-01-preview/securitydomain.json
   - Microsoft.KeyVault/preview/2026-01-01-preview/settings.json
   - Microsoft.KeyVault/preview/2026-01-01-preview/storage.json
+  - Microsoft.KeyVault/preview/2026-01-01-preview/ekm.json
 ```
 
 ### Tag: package-2025-07-01
